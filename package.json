@@ -1,0 +1,20 @@
+{
+  "name": "new-repo-quote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyphelps4-creator/new-repo-quote.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyphelps4-creator/new-repo-quote/issues"
+  },
+  "homepage": "https://github.com/bradleyphelps4-creator/new-repo-quote#readme"
+}
